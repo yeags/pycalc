@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
+import math
 
 class CalcApp(tk.Tk):
     def __init__(self):
